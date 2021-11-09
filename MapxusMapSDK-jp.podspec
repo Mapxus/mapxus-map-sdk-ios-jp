@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.summary      = 'Indoor map SDK.'
   s.description  = 'To be the largest global indoor map.'
   s.homepage     = 'http://www.mapxus.co.jp'
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.license      = { :type => 'BSD 3-Clause', :file => 'LICENSE' }
   s.author       = { 'Mapxus' => 'developer@maphive.io' }
 
   s.platform     = :ios, '9.0'
