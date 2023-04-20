@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 
-  version = '5.1.2'
+  version = '6.0.0'
 
   s.name         = 'MapxusMapSDK-jp'
   s.version      = version
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'dynamic/MapxusMapSDK.xcframework'
 
   s.dependency "MapxusBaseSDK-jp", version
-  s.dependency "MapxusRenderSDK", "5.12.2"
+  s.dependency "MapxusRenderSDK", "5.13.0"
 
   
 end
