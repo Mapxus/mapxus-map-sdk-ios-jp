@@ -8,7 +8,7 @@ let version = "7.5.0"
 let package = Package(
   name: "MapxusMapSDK",
   platforms: [
-    .iOS(.v9),
+    .iOS(.v13),
   ],
   products: [
     .library(
